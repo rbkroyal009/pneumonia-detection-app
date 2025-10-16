@@ -6,10 +6,9 @@ It’s a simple and easy-to-use application that I built to apply what I learned
 🔗 **Live App:** [https://v0-web-app-for-pneumonia.vercel.app](https://v0-web-app-for-pneumonia.vercel.app)
 ---
 ## Tech Stack
-- Frontend: React / Next.js  
-- Backend: Flask  
-- Model: CNN (TensorFlow / Keras)  
-- Deployment: Vercel  
+- React / Next.js
+- TensorFlow.js (for model inference in the browser)
+- Deployed on Vercel  
 ---
 ## About the Project
 I trained a convolutional neural network on a chest X-ray dataset to classify the images as *Normal* or *Pneumonia*.  
