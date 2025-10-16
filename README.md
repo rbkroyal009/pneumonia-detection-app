@@ -29,10 +29,10 @@ The main goal was to make an easy-to-use pneumonia detection system that runs in
 ## Screenshots
 ### Home Page
 This is the main page of the app where users can upload chest X-ray images.  
-![Home Page](assets/home.png)
+![Home Page](assets/home.png.jpg)
 ### Prediction Result
 After uploading an image, the app displays the prediction result.  
-![Prediction Result](assets/result.png)
+![Prediction Result](assets/result.png.jpg)
 --
 ## Author
 **Bharath kumar Ramisetti**  
