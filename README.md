@@ -26,6 +26,14 @@ The main goal was to make an easy-to-use pneumonia detection system that runs in
 - Add detailed result explanation and confidence score  
 - Connect to cloud storage for handling large images
 --
+## Screenshots
+### Home Page
+This is the main page of the app where users can upload chest X-ray images.  
+![Home Page](assets/home.png)
+### Prediction Result
+After uploading an image, the app displays the prediction result.  
+![Prediction Result](assets/result.png)
+--
 ## Author
 **Bharath kumar Ramisetti**  
 AI/ML Enthusiast | Python Developer  
